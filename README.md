@@ -1,6 +1,5 @@
 # parabot
 
-untuk mengatur dan merapikan berkas-berkas tangkapan layar menjadi berkas pdf
-
+untuk mengatur berkas, mengubah nama dan merapikan
 masih belum sempurna
 

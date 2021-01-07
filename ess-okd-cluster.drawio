@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-01-07T07:57:39.635Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="kQrP8EDSJJSKR2QfWmYb" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-07T07:58:39.782Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="PvXjN0f2LNAPYN5KiDHC" version="14.1.8" type="github">
   <diagram id="qKItS9ODfsw4xPVkSacJ" name="Page-1">
     <mxGraphModel dx="1113" dy="1859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="goLqov-QQ6xSTqAH65DF-1" value="BASTION&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=0;dashed=1;sketch=0;fillColor=none;gradientColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="375" y="-630" width="170" height="318" as="geometry" />
+          <mxGeometry x="375" y="-630" width="155" height="318" as="geometry" />
         </mxCell>
         <mxCell id="k5iY01TgsLt5zAKxNToZ-22" value="&lt;pre&gt;&lt;font face=&quot;Helvetica&quot;&gt;MASTER&lt;/font&gt;&lt;/pre&gt;&lt;pre&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/pre&gt;&lt;pre&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/pre&gt;&lt;pre&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/pre&gt;&lt;pre&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/pre&gt;&lt;pre&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/pre&gt;&lt;pre&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/pre&gt;&lt;pre&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/pre&gt;&lt;pre&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/pre&gt;&lt;pre&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/pre&gt;&lt;pre&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/pre&gt;&lt;pre&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/pre&gt;&lt;pre&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/pre&gt;&lt;pre&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/pre&gt;&lt;pre&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/pre&gt;&lt;pre&gt;&lt;br&gt;&lt;/pre&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;gradientColor=#ffffff;fillColor=none;dashed=1;shadow=0;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="78" y="-442" width="362" height="362" as="geometry" />
@@ -38,7 +38,7 @@
           <mxGeometry x="26" y="70" width="50" height="46" as="geometry" />
         </mxCell>
         <mxCell id="k5iY01TgsLt5zAKxNToZ-24" value="&lt;pre&gt;&lt;font face=&quot;Helvetica&quot;&gt;WORKER&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;/pre&gt;&lt;pre&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/pre&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;gradientColor=#ffffff;fillColor=none;dashed=1;shadow=0;sketch=0;" parent="1" vertex="1">
-          <mxGeometry x="440" y="-370" width="290" height="290" as="geometry" />
+          <mxGeometry x="426" y="-370" width="290" height="290" as="geometry" />
         </mxCell>
         <mxCell id="k5iY01TgsLt5zAKxNToZ-25" value="&lt;br&gt;&lt;br&gt;okd-bootstrap&lt;br&gt;&lt;br&gt;CPU=4&lt;br&gt;RAM=10Gb&lt;br&gt;HDD=50Gb&lt;br&gt;10.1.8.120" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=left;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;" parent="1" vertex="1">
           <mxGeometry x="423" y="-598" width="56" height="100" as="geometry" />
@@ -47,7 +47,7 @@
           <mxGeometry x="449" y="-528" width="50" height="46" as="geometry" />
         </mxCell>
         <mxCell id="k5iY01TgsLt5zAKxNToZ-27" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="502" y="-330" width="76" height="116" as="geometry" />
+          <mxGeometry x="493" y="-330" width="76" height="116" as="geometry" />
         </mxCell>
         <mxCell id="k5iY01TgsLt5zAKxNToZ-28" value="&lt;br&gt;&lt;br&gt;okd-wrk1&lt;br&gt;&lt;br&gt;CPU=4&lt;br&gt;RAM=8Gb&lt;br&gt;HDD=50Gb&lt;br&gt;10.1.8.128" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=left;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;" parent="k5iY01TgsLt5zAKxNToZ-27" vertex="1">
           <mxGeometry width="56" height="100" as="geometry" />
@@ -56,7 +56,7 @@
           <mxGeometry x="26" y="70" width="50" height="46" as="geometry" />
         </mxCell>
         <mxCell id="k5iY01TgsLt5zAKxNToZ-30" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="602" y="-330" width="76" height="116" as="geometry" />
+          <mxGeometry x="593" y="-330" width="76" height="116" as="geometry" />
         </mxCell>
         <mxCell id="k5iY01TgsLt5zAKxNToZ-31" value="&lt;br&gt;&lt;br&gt;okd-wrk2&lt;br&gt;&lt;br&gt;CPU=4&lt;br&gt;RAM=8Gb&lt;br&gt;HDD=50Gb&lt;br&gt;10.1.8.129" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=left;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;" parent="k5iY01TgsLt5zAKxNToZ-30" vertex="1">
           <mxGeometry width="56" height="100" as="geometry" />

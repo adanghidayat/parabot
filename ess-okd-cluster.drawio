@@ -1,53 +1,44 @@
-<mxfile host="app.diagrams.net" modified="2021-01-07T07:58:39.782Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="PvXjN0f2LNAPYN5KiDHC" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-07T08:15:59.412Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="0lxWAgMQPWcXRLSCWNig" version="14.1.8" type="github">
   <diagram id="qKItS9ODfsw4xPVkSacJ" name="Page-1">
     <mxGraphModel dx="1113" dy="1859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="goLqov-QQ6xSTqAH65DF-1" value="BASTION&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=0;dashed=1;sketch=0;fillColor=none;gradientColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="375" y="-630" width="155" height="318" as="geometry" />
+          <mxGeometry x="335" y="-709" width="155" height="318" as="geometry" />
         </mxCell>
         <mxCell id="k5iY01TgsLt5zAKxNToZ-22" value="&lt;pre&gt;&lt;font face=&quot;Helvetica&quot;&gt;MASTER&lt;/font&gt;&lt;/pre&gt;&lt;pre&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/pre&gt;&lt;pre&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/pre&gt;&lt;pre&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/pre&gt;&lt;pre&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/pre&gt;&lt;pre&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/pre&gt;&lt;pre&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/pre&gt;&lt;pre&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/pre&gt;&lt;pre&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/pre&gt;&lt;pre&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/pre&gt;&lt;pre&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/pre&gt;&lt;pre&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/pre&gt;&lt;pre&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/pre&gt;&lt;pre&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/pre&gt;&lt;pre&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/pre&gt;&lt;pre&gt;&lt;br&gt;&lt;/pre&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;gradientColor=#ffffff;fillColor=none;dashed=1;shadow=0;sketch=0;" parent="1" vertex="1">
-          <mxGeometry x="78" y="-442" width="362" height="362" as="geometry" />
-        </mxCell>
-        <mxCell id="k5iY01TgsLt5zAKxNToZ-19" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="330" y="-370" width="110" height="330" as="geometry" />
-        </mxCell>
-        <mxCell id="k5iY01TgsLt5zAKxNToZ-20" value="&lt;br&gt;&lt;br&gt;okd-cp3&lt;br&gt;&lt;br&gt;CPU=4&lt;br&gt;RAM=8Gb&lt;br&gt;HDD=50Gb&lt;br&gt;10.1.8.127" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=left;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;" parent="k5iY01TgsLt5zAKxNToZ-19" vertex="1">
-          <mxGeometry x="5" y="-2" width="56" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="k5iY01TgsLt5zAKxNToZ-21" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/OpenShift.svg;" parent="k5iY01TgsLt5zAKxNToZ-19" vertex="1">
-          <mxGeometry x="31" y="68" width="50" height="46" as="geometry" />
+          <mxGeometry x="30" y="-522" width="372" height="372" as="geometry" />
         </mxCell>
         <mxCell id="k5iY01TgsLt5zAKxNToZ-9" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="125" y="-372" width="76" height="116" as="geometry" />
+          <mxGeometry x="71" y="-452" width="76" height="116" as="geometry" />
         </mxCell>
-        <mxCell id="k5iY01TgsLt5zAKxNToZ-5" value="&lt;br&gt;&lt;br&gt;okd-cp1&lt;br&gt;&lt;br&gt;CPU=4&lt;br&gt;RAM=8Gb&lt;br&gt;HDD=50Gb&lt;br&gt;10.1.8.125" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=left;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;" parent="k5iY01TgsLt5zAKxNToZ-9" vertex="1">
+        <mxCell id="k5iY01TgsLt5zAKxNToZ-5" value="&lt;br&gt;&lt;br&gt;okd-cntrl-plane1&lt;br&gt;&lt;br&gt;CPU=4&lt;br&gt;RAM=8Gb&lt;br&gt;HDD=50Gb&lt;br&gt;10.1.8.125" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=left;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;" parent="k5iY01TgsLt5zAKxNToZ-9" vertex="1">
           <mxGeometry width="56" height="100" as="geometry" />
         </mxCell>
         <mxCell id="k5iY01TgsLt5zAKxNToZ-6" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/OpenShift.svg;" parent="k5iY01TgsLt5zAKxNToZ-9" vertex="1">
           <mxGeometry x="26" y="70" width="50" height="46" as="geometry" />
         </mxCell>
         <mxCell id="k5iY01TgsLt5zAKxNToZ-10" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="225" y="-372" width="76" height="116" as="geometry" />
+          <mxGeometry x="171" y="-452" width="76" height="116" as="geometry" />
         </mxCell>
-        <mxCell id="k5iY01TgsLt5zAKxNToZ-11" value="&lt;br&gt;&lt;br&gt;okd-cp2&lt;br&gt;&lt;br&gt;CPU=4&lt;br&gt;RAM=8Gb&lt;br&gt;HDD=50Gb&lt;br&gt;10.1.8.126" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=left;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;" parent="k5iY01TgsLt5zAKxNToZ-10" vertex="1">
+        <mxCell id="k5iY01TgsLt5zAKxNToZ-11" value="&lt;br&gt;&lt;br&gt;okd-cntrl-plane2&lt;br&gt;&lt;br&gt;CPU=4&lt;br&gt;RAM=8Gb&lt;br&gt;HDD=50Gb&lt;br&gt;10.1.8.126" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=left;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;" parent="k5iY01TgsLt5zAKxNToZ-10" vertex="1">
           <mxGeometry width="56" height="100" as="geometry" />
         </mxCell>
         <mxCell id="k5iY01TgsLt5zAKxNToZ-12" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/OpenShift.svg;" parent="k5iY01TgsLt5zAKxNToZ-10" vertex="1">
           <mxGeometry x="26" y="70" width="50" height="46" as="geometry" />
         </mxCell>
         <mxCell id="k5iY01TgsLt5zAKxNToZ-24" value="&lt;pre&gt;&lt;font face=&quot;Helvetica&quot;&gt;WORKER&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;/pre&gt;&lt;pre&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/pre&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;gradientColor=#ffffff;fillColor=none;dashed=1;shadow=0;sketch=0;" parent="1" vertex="1">
-          <mxGeometry x="426" y="-370" width="290" height="290" as="geometry" />
+          <mxGeometry x="383" y="-446" width="290" height="290" as="geometry" />
         </mxCell>
         <mxCell id="k5iY01TgsLt5zAKxNToZ-25" value="&lt;br&gt;&lt;br&gt;okd-bootstrap&lt;br&gt;&lt;br&gt;CPU=4&lt;br&gt;RAM=10Gb&lt;br&gt;HDD=50Gb&lt;br&gt;10.1.8.120" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=left;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;" parent="1" vertex="1">
-          <mxGeometry x="423" y="-598" width="56" height="100" as="geometry" />
+          <mxGeometry x="378" y="-678" width="56" height="100" as="geometry" />
         </mxCell>
         <mxCell id="k5iY01TgsLt5zAKxNToZ-26" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/OpenShift.svg;" parent="1" vertex="1">
-          <mxGeometry x="449" y="-528" width="50" height="46" as="geometry" />
+          <mxGeometry x="404" y="-608" width="50" height="46" as="geometry" />
         </mxCell>
         <mxCell id="k5iY01TgsLt5zAKxNToZ-27" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="493" y="-330" width="76" height="116" as="geometry" />
+          <mxGeometry x="450" y="-406" width="76" height="116" as="geometry" />
         </mxCell>
         <mxCell id="k5iY01TgsLt5zAKxNToZ-28" value="&lt;br&gt;&lt;br&gt;okd-wrk1&lt;br&gt;&lt;br&gt;CPU=4&lt;br&gt;RAM=8Gb&lt;br&gt;HDD=50Gb&lt;br&gt;10.1.8.128" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=left;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;" parent="k5iY01TgsLt5zAKxNToZ-27" vertex="1">
           <mxGeometry width="56" height="100" as="geometry" />
@@ -56,13 +47,22 @@
           <mxGeometry x="26" y="70" width="50" height="46" as="geometry" />
         </mxCell>
         <mxCell id="k5iY01TgsLt5zAKxNToZ-30" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="593" y="-330" width="76" height="116" as="geometry" />
+          <mxGeometry x="550" y="-406" width="76" height="116" as="geometry" />
         </mxCell>
         <mxCell id="k5iY01TgsLt5zAKxNToZ-31" value="&lt;br&gt;&lt;br&gt;okd-wrk2&lt;br&gt;&lt;br&gt;CPU=4&lt;br&gt;RAM=8Gb&lt;br&gt;HDD=50Gb&lt;br&gt;10.1.8.129" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=left;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;" parent="k5iY01TgsLt5zAKxNToZ-30" vertex="1">
           <mxGeometry width="56" height="100" as="geometry" />
         </mxCell>
         <mxCell id="k5iY01TgsLt5zAKxNToZ-32" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/OpenShift.svg;" parent="k5iY01TgsLt5zAKxNToZ-30" vertex="1">
           <mxGeometry x="26" y="70" width="50" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="goLqov-QQ6xSTqAH65DF-3" value="OKD Cluster" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;shadow=0;dashed=1;fontStyle=1;fontSize=47;" vertex="1" parent="1">
+          <mxGeometry x="30" y="-840" width="469" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="k5iY01TgsLt5zAKxNToZ-20" value="&lt;br&gt;&lt;br&gt;okd-cntrl-plane3&lt;br&gt;&lt;br&gt;CPU=4&lt;br&gt;RAM=8Gb&lt;br&gt;HDD=50Gb&lt;br&gt;10.1.8.127" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=left;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;" parent="1" vertex="1">
+          <mxGeometry x="281" y="-452" width="56" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="k5iY01TgsLt5zAKxNToZ-21" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/OpenShift.svg;" parent="1" vertex="1">
+          <mxGeometry x="307" y="-382" width="50" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
